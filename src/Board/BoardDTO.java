@@ -8,6 +8,8 @@ public class BoardDTO {
     private String writer;
     private String regDate; // LocalDateTime??
 
+    private String gigigi;
+
     public BoardDTO(String title, String content, String writer) {
         this.title = title;
         this.content = content;
