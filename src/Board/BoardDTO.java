@@ -9,7 +9,9 @@ public class BoardDTO {
     private String regDate; // LocalDateTime??
     private String pratice;
 
-    private String gigigi;
+    private String na;
+
+    private String jiami;
 
     public BoardDTO(String title, String content, String writer) {
         this.title = title;
