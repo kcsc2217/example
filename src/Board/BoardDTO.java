@@ -7,6 +7,7 @@ public class BoardDTO {
     private String content;
     private String writer;
     private String regDate; // LocalDateTime??
+    private String pratice;
 
     private String gigigi;
 
