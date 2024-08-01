@@ -11,6 +11,8 @@ public class BoardDTO {
 
     private String gigigi;
 
+    private String jiami;
+
     public BoardDTO(String title, String content, String writer) {
         this.title = title;
         this.content = content;
