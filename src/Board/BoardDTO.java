@@ -9,7 +9,7 @@ public class BoardDTO {
     private String regDate; // LocalDateTime??
     private String pratice;
 
-    private String gigigi;
+    private String na;
 
     private String jiami;
 
