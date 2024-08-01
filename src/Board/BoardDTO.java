@@ -7,6 +7,7 @@ public class BoardDTO {
     private String content;
     private String writer;
     private String regDate; // LocalDateTime??
+    private String pratice;
 
     public BoardDTO(String title, String content, String writer) {
         this.title = title;
